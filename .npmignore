@@ -1,0 +1,8 @@
+﻿bower_components/
+node_modules/
+src/
+logs/
+tests/
+.svn
+.git
+npm-debug.log
